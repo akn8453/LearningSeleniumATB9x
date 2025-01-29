@@ -50,11 +50,7 @@ public class TestSelenium_21 {
                     System.out.println("Helen Bennett is in - " + country_text);
 
                 }
-
             }
         }
     }
-
-
-
 }
