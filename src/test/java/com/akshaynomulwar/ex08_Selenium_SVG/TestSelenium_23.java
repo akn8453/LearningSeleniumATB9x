@@ -1,4 +1,4 @@
-package com.akshaynomulwar.ex_08_Selenium_SVG;
+package com.akshaynomulwar.ex08_Selenium_SVG;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;
-import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.util.List;

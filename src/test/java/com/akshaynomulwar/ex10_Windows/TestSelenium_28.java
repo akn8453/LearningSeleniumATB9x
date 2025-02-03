@@ -1,4 +1,4 @@
-package com.akshaynomulwar.ex_10_Windows;
+package com.akshaynomulwar.ex10_Windows;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;

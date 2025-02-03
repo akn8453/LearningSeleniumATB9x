@@ -1,9 +1,8 @@
-package com.akshaynomulwar.ex_09_Action_Classes;
+package com.akshaynomulwar.ex09_Action_Classes;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.edge.EdgeOptions;

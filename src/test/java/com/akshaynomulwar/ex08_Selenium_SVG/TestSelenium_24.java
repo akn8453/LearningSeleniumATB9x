@@ -1,4 +1,4 @@
-package com.akshaynomulwar.ex_08_Selenium_SVG;
+package com.akshaynomulwar.ex08_Selenium_SVG;
 
 import io.qameta.allure.Description;
 import org.openqa.selenium.By;
